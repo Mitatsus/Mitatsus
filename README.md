@@ -1,3 +1,5 @@
+![My Discord](https://discord-readme-badge.vercel.app/api?id=1007851777850343424)
+
 # 💫 About Me:
 🔭 I'm currently a minecraft developer.<br>👯 I have cooperation on Shark project<br>🌱 I’m learned JavaScript,DiscordJS,Python,DiscordPY,Lua,Css and HTML<br>💬 You can ask me things you don't know when making a minecraft server<br>
 
